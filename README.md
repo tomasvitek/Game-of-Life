@@ -5,7 +5,7 @@
 The app is in Czech language.
 
 ## Screenshots
-![Screenshots](/images/life-all.png)
+![Screenshots](/images/screenshots.png)
 
 ## Features
 - You can choose from predefined patterns, or create your own and export or import them.
